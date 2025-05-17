@@ -22,6 +22,8 @@ A simple and stylish paint menu for vehicles using **ox_target** and **ox_lib**.
 
 ## PREVIEW
 [🎥 Video Preview](https://www.youtube.com/watch?v=UhSIgk56nIM&feature=youtu.be)
+
+
 ![image](https://github.com/user-attachments/assets/eca06e25-6c9a-47b0-b168-d0182468e64f)
 
 
